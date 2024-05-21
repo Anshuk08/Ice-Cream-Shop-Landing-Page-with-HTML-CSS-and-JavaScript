@@ -214,7 +214,7 @@ header {
 .nav-icon {
   cursor: pointer;
   color: var(--nav-txt-clr);
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 @media screen and (max-width: 768px) {
   .nav-icon {
